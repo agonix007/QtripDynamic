@@ -16,12 +16,6 @@ QTrip is a travel website aimed at travellers looking for a multitude of adventu
 
 Website link: [QtripDynamic](https://qtrip-dynamic-content.netlify.app)
 
-## Screenshots
-
-![App Screenshot](<./qtrip_dynamic%20(1).jpg>)
-![App Screenshot](<./qtrip_dynamic%20(2).jpg>)
-![App Screenshot](<./qtrip_dynamic%20(3).jpg>)
-
 ## Lessons Learned
 
 This project taught me more about fetching REST API, I learned how to do HTTP GET & POST requests and also how to work with JSON. This project has also helped me understand some JavaScript concepts like Localstorage and DOM manipulation.
