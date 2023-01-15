@@ -68,8 +68,8 @@ I have passion for coding and love to learn new technology. Every day, i learn s
 
 ## Support
 
-For support, email [here](technology2203@gmail.com).
+For support, email technology2203@gmail.com
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [here](technology2203@gmail.com).
+If you have any feedback, please reach out to us at technology2203@gmail.com
